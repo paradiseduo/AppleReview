@@ -12,7 +12,10 @@ A python tool to help apple review your code and ipa
         -f <CheckList Path>
 
 ```
+
 ## Example
+You can add keyword in checklist, one keyword per line, support chinese word.
+
 ```bash
 ❯ python3 scan.py -i 抖音.ipa -f checklist 
 
